@@ -4,7 +4,6 @@
 - [Prerequisites](#prerequisites)
 - [Agenda](#agenda)
 - [Getting Started](#getting-started)
-  - [Server Basics](#server-basics)
   - [Express.js First App](#expressjs-first-app)
   - [Express GET Requests](#express-get-requests)
   - [Request Types](#request-types)
@@ -19,7 +18,6 @@ Before starting, you'll need to install:
 
 1. **Node.js**: Download and install from [Node.js Official Website](https://nodejs.org/en/download/)
 2. **MongoDB Compass**: Download and install from [MongoDB Compass Download](https://www.mongodb.com/try/download/compass)
-3. **MongoDB Atlas** (optional for cloud database): Sign up at [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register)
 
 ## Agenda
 
@@ -32,10 +30,6 @@ Before starting, you'll need to install:
 7. MVC Architecture Implementation
 
 ## Getting Started
-
-### Server Basics
-
-A server is a computer that provides services to other computers (clients) and typically runs 24/7 to ensure continuous availability.
 
 ### Express.js First App
 
